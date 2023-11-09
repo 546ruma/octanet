@@ -1,4 +1,4 @@
-# octanet
+# landing page
 he CSS code includes the following styles:
 
 - All elements have a margin and padding of 0, and box-sizing is set to border-box.
